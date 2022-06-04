@@ -2,7 +2,6 @@
 # O programa deve informar se o aluno foi aprovado ou reprovado. 
 # Para que o aluno seja aprovado a média das 3 notas tem que ser maior ou igual a 60 pontos
 
-
 from flask import Flask
 
 app = Flask(__name__)
