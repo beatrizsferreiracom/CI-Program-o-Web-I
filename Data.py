@@ -10,4 +10,4 @@ ContinuacaoNome = nome[1: ]
 
 nascimento = "{}{} nasceu no dia: {}/{}/{}"
 
-print(nascimento.format(PrimeiraLetraNome.upper(), ContinuaçãoNome.lower(), dia, mês, ano))
+print(nascimento.format(PrimeiraLetraNome.upper(), ContinuacaoNome.lower(), dia, mês, ano))
